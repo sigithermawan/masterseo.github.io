@@ -1,0 +1,8 @@
+title: Masterseo.GitHub.io
+description: Blog Optimasi SEO Onpage & Offpage Untuk Mendapakan SERP Google
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
